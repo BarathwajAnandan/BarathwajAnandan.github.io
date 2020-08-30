@@ -1,33 +1,8 @@
+Thank you for using our template!
 
-TITLE: 
-Photogenic - Responsive Bootstrap 4 Template for Photographers
+For more awesome templates please visit https://colorlib.com/wp/templates/
 
-AUTHOR:
-Design by FreeHTML5.co
-Website: http://freehtml5.co/
+Copyright information for the template can't be altered/removed unless you purchase a license.
+More information about the license is available here: https://colorlib.com/wp/licence/
 
-
-
-CREDITS:
-
-Bootstrap
-http://getbootstrap.com/
-
-jQuery
-http://jquery.com/
-
-Google Fonts
-https://fonts.google.com
-
-Owl Carousel
-https://owlcarousel2.github.io/OwlCarousel2/
-
-Font Awesome
-https://fontawesome.com
-
-Isotope
-https://isotope.metafizzy.co
-
-Demo Images:
-http://unsplash.com
-
+Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
