@@ -755,6 +755,8 @@ About Page
 
 
 .btn {
+  height: 1000px;
+  width: 500px;
   border: none;
   background-color: inherit;
   padding: 14px 28px;
@@ -769,7 +771,7 @@ About Page
   }
   
   .info:hover {
-	background: #2196F3;
+	background: #2195f36b;
 	color: white;
   }
   
