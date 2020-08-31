@@ -716,16 +716,17 @@ Hero section
 
 .hs-item .hs-info {
 	position: absolute;
-	left: 0;
-	bottom: 0;
-	width: 221px;
+	height: 750px;
+	/* left: 0;
+	bottom: 0; */
+	width: 1000px;
 	padding: 44px 0 10px 0;
 	background-color: inherit;
 	
 }
 
 .hs-item .hs-info p {
-	margin-bottom: 5px;
+	margin-bottom: 1px;
 }
 
 .nicescroll-rails.nicescroll-rails-hr,
