@@ -755,23 +755,25 @@ About Page
 
 
 .btn {
-  height: 1100px;
-  width: 1500px;
+  left: 0;
+  top: 0;
+  height: 800px;
+  width: 1000px;
   border: none;
   background-color: inherit;
   padding: 14px 28px;
   font-size: 16px;
   cursor: pointer;
-  display: inline-block;
+  /* display: inline-block; */
 }
 
 /* Blue */
 .info {
-	color: dodgerblue;
+	color: rgba(30, 143, 255, 0.274);
   }
   
   .info:hover {
-	background: #2195f36b;
+	background: #2195f333;
 	color: white;
   }
   
