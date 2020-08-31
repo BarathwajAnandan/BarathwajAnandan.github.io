@@ -757,12 +757,12 @@ About Page
 .btn {
   left: 0;
   top: 0;
-  /* height: 800px; */
-  width: 1000px;
+  height: 1400px;
+  width: 950px;
   border: none;
   background-color: inherit;
   padding: 14px 28px;
-  font-size: 16px;
+  font-size: 30px;
   cursor: pointer;
   /* display: inline-block; */
 }
@@ -777,7 +777,7 @@ About Page
 
 /* Blue */
 .info {
-	color: rgba(30, 143, 255, 0.274);
+	color: rgba(30, 143, 255, 0.1);
   }
   
   .info:hover {
