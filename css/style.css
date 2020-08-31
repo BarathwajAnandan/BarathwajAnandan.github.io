@@ -556,7 +556,7 @@ body.push-side #ascrail2000-hr {
 	overflow: hidden;
 	padding: 27px 45px;
 	z-index: 999;
-	background: #fff;
+	background: rgba(130, 130, 130, 0.0);
 	-webkit-transform: translateX(0);
 	transform: translateX(0);
 	-webkit-transition: all 0.4s;
@@ -720,7 +720,7 @@ Hero section
 	bottom: 0;
 	width: 221px;
 	padding: 44px 0 10px 0;
-	background: #fff;
+	background: rgba(130, 130, 130, 0.0);
 	z-index: 1;
 }
 
