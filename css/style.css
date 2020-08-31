@@ -757,6 +757,7 @@ About Page
 
 .btn {
   border: none;
+  height: 750px;
   background-color: inherit;
   padding: 14px 28px;
   font-size: 16px;
