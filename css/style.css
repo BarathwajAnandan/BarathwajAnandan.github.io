@@ -753,6 +753,27 @@ About Page
 	padding-right: 74px;
 }
 
+
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* Blue */
+.info {
+	color: dodgerblue;
+  }
+  
+  .info:hover {
+	background: #2196F3;
+	color: white;
+  }
+  
+
 .video-section {
 	height: calc(100% - 235px);
 	margin-bottom: 30px;
