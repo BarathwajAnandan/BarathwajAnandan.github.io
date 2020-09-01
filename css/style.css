@@ -765,7 +765,9 @@ About Page
   font-size: 30px;
   cursor: pointer;
   /* display: inline-block; */
+  margin-bottom: 5px;
 }
+
 
 
 .fa:hover {
@@ -780,11 +782,11 @@ About Page
 	color: rgba(30, 143, 255, 0.1);
   }
   
-  .info:hover {
+  /* .info:hover {
 	background: #2195f333;
 	color: white;
   }
-  
+   */
 
 .video-section {
 	height: calc(100% - 235px);
