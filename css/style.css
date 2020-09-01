@@ -757,8 +757,8 @@ About Page
 .btn {
   left: 0;
   top: 0;
-  height: 1325px;
-  width: 1010px;
+  height: 1300px;
+  width: 1000px;
   border: none;
   background-color: inherit;
   padding: 14px 28px;
@@ -779,7 +779,7 @@ About Page
 
 /* Blue */
 .info {
-	color: rgba(30, 143, 255, 0.1);
+	color: rgba(30, 143, 255, 0.01);
   }
   
   /* .info:hover {
