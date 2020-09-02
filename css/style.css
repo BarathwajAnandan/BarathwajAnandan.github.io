@@ -890,8 +890,8 @@ Blog page
 }
 
 .post-date {
-	background: #fff;
-	width: 138px;
+	background: rgba(206, 196, 196, 0.993);
+	width: 180px;
 	height: 84px;
 	padding-top: 5px;
 	padding-left: 10px;
@@ -913,7 +913,7 @@ Blog page
 
 .blog-content {
 	width: calc(100% - 138px);
-	background: #fff;
+	background:rgba(206, 196, 196, 0.993);
 	padding: 55px 58px;
 	margin-top: -133px;
 	margin-left: 62px;
