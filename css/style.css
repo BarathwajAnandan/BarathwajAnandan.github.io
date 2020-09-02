@@ -775,12 +775,13 @@ About Page
 	/* height: 1300px;
 	width: 1000px; */
 	border: none;
-	background-color: inherit;
+	/* background-color: inherit; */
 	padding: 14px 28px;
-	font-size: 20px;
+	font-size: 40px;
 	cursor: pointer;
 	/* display: inline-block; */
 	margin-bottom: 5px;
+	color: rgba(255, 0, 0, 1.0);
   }
   
 
